@@ -1,3 +1,9 @@
+battleship (1.0-2) UNRELEASED; urgency=low
+
+  * Cleaned up copyright file
+
+ -- Kaashif Hymabaccus <kaashif.hymabaccus@wadh.ox.ac.uk>  Fri, 31 Mar 2017 00:55:28 +0100
+
 battleship (1.0-1) unstable; urgency=low
 
   * Initial release.
