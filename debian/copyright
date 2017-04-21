@@ -8,13 +8,7 @@ Copyright: 2017 Kaashif Hymabaccus
            2017 Antonia Siu
            2017 Cameron Conn
            2017 Winston Wright
-License: GPL-3
-
-Files: backend/*
-Copyright: 2017 Kaashif Hymabaccus
-           2017 Marius Gavrilescu
-           2017 Winston Wright
-License: GPL-3
+License: AGPL-3
 
 Files: backend/libwebsockets/*
 Copyright: 2010-2016 Andy Green
@@ -41,9 +35,3 @@ License: MIT or public-domain
 Files: backend/libwebsockets/test-server/*.c backend/libwebsockets/test-server/*.h lwsws/*
 Copyright: 2010-2016 Andy Green
 License: CC0
-
-Files: frontend/*
-Copyright: 2017 Antonia Siu
-           2017 Cameron Conn
-License: AGPL-3
-
