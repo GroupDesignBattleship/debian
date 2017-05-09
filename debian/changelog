@@ -1,4 +1,10 @@
-battleship (1.0-2) UNRELEASED; urgency=low
+battleship (1.1-1) unstable; urgency=low
+
+  * Various changes
+
+ -- Kaashif Hymabaccus <kaashif.hymabaccus@wadh.ox.ac.uk>  Fri, 05 May 2017 01:47:32 +0100
+
+battleship (1.0-2) unstable; urgency=low
 
   * Cleaned up copyright file
 
